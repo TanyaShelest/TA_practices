@@ -3,7 +3,7 @@ package ua.edu.sumdu.ta.shelest.pr7;
 import java.util.Iterator;
 
 /**
- * This class describes a list that will store and work with a list of tasks
+ * This class describes a list that stores and works with tasks
  *
  * @author Tatyana Shelest
  * @version 1.0
